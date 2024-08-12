@@ -4,5 +4,5 @@
 
 ### Con estos dashboards se puede analizar de una forma rápida la situación general de la empresa en función clima organizacional, por ejemplo con el nivel de satisfacción de los colabordores de puede indagar si tiene relación directa con su salario, con el manager y a su vez se puede analizar por departamento. De está forma se pueden tomar acciones en pro de el desarrollo organizacional para crear un clima laboral en el que los colaboradores se pueden desarrollar de una mejor manera, tanto profesiional como personalmente.
 
-## https://public.tableau.com/app/profile/cristina.deniz/viz/CASOPRACTICO_17234326027210/Historia1?publish=yes
+## StoryTableau https://public.tableau.com/app/profile/cristina.deniz/viz/CASOPRACTICO_17234326027210/Historia1?publish=yes
 
